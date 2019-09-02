@@ -1,4 +1,4 @@
-//let is a keyword for defining an variable
+//let is a keyword for defining a variable
 let firstName = 'Brad';
 console.log(firstName);
 
